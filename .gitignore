@@ -1,0 +1,53 @@
+# Node and build directories
+node_modules/
+build/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+logs/
+*.out
+
+# Environment files
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.old
+
+# Blockchain data directories
+data/
+config/
+
+# Compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.pyc
+*.pyo
+*.class
+
+# Private keys or sensitive information
+*.key
+*.pem
+*.cert
+
+# Test outputs
+coverage/
+*.lcov
